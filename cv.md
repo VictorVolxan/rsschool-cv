@@ -3,3 +3,5 @@
 ## email: vitia.volxan@mail.ru
 # I'm starting my journey in programming. I think it will be cool and interesting.
 # Skils at the initial stage.
+Higher education GGAU.
+Level English 1. In the process of studying.
